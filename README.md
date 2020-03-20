@@ -1,4 +1,4 @@
-# python-summing-series-of-numbers-from-image
+# python(OCR)-summing-series-of-numbers-from-image
 
 Package used
 urllib,
