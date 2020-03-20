@@ -1,0 +1,1 @@
+# python-summing-series-of-numbers-from-image
